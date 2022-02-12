@@ -1,5 +1,6 @@
 # test
 
-## This is a test repository for experimental Data Science projects
+## This is the Final Presentation repository for the IBM Data Science Capstone Project
 
-Future releases will be made public here.
+Details:
+
