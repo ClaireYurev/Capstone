@@ -2,9 +2,9 @@
 
 ## This is the Final Presentation repository for the IBM Data Science Capstone Project
 
-###📁 This repository contains the following core files:
-###💾 Claire Yaroslav Yurev - IBM Data Science Capstone Presentation.pdf
-###💽 Claire Yaroslav Yurev - IBM Data Science Capstone Presentation.pptx
+### 📁 This repository contains the following core files:
+### 💾 Claire Yaroslav Yurev - IBM Data Science Capstone Presentation.pdf
+### 💽 Claire Yaroslav Yurev - IBM Data Science Capstone Presentation.pptx
 
 #### This repository also contains the following supporting files:
 🗒 SpaceX Data Collection REST API.ipynb
