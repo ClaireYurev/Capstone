@@ -1,8 +1,8 @@
-#🖥️ IBM Data Science Capstone Project - Claire Yaroslav Yurev
+🖥️ #IBM Data Science Capstone Project - Claire Yaroslav Yurev
 
 ## This is the Final Presentation repository for the IBM Data Science Capstone Project
 
-### 📁 This repository contains the following core files:
+### This repository contains the following core files:
 ### 💾 Claire Yaroslav Yurev - IBM Data Science Capstone Presentation.pdf
 ### 💽 Claire Yaroslav Yurev - IBM Data Science Capstone Presentation.pptx
 
